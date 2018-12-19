@@ -43,9 +43,6 @@ After that, `ngrok` would generate a https URL.
 python3 app.py
 ```
 
-## Finite State Machine
-![fsm](./img/show-fsm.png)
-
 ## Usage
 The initial state is set to `user`.
 
