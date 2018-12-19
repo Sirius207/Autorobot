@@ -52,12 +52,26 @@ The initial state is set to `user`.
 Every time `user` state is triggered to `advance` to another state, it will `go_back` to `user` state after the bot replies corresponding message.
 
 * user
-	* Input: "go to state1"
+	(* Input: "go to state1"
 		* Reply: "I'm entering state1"
 
 	* Input: "go to state2"
 		* Reply: "I'm entering state2"
+		
+	* Input: "go to state3"
+		* Reply: "I'm entering state3"
 
+	* Input: "go to state4"
+		* Reply: "I'm entering state4")
+
+	* Input: "go to state5"
+		* Reply: "I'm entering state5"
+
+	* Input: "go to state6"
+		* Reply: "I'm entering state6"
+		
+	* Input: "go to state7"
+		* Reply: "I'm entering state7"
 
 ## Reference
 [TOC-Project-2017](https://github.com/Lee-W/TOC-Project-2017) ❤️ [@Lee-W](https://github.com/Lee-W)
